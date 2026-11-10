@@ -1,0 +1,10 @@
+# planilhas de origem e cópias exportadas ficam fora do repositório
+*.xlsx
+*.xlsm
+*.xls
+~$*
+
+# sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
