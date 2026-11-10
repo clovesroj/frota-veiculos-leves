@@ -17,7 +17,10 @@ Não precisa instalar nada nem de servidor. A internet só é usada para as font
 
 - **Filtros** por situação, vínculo, setor, área, categoria, modelo e UF, e busca por frota, placa, usuário ou chassi. Clicar numa barra, categoria ou indicador também filtra.
 - **Edição:** clique num veículo para editar ou use *Novo veículo*. Placa, chassi e RENAVAM são conferidos enquanto se digita.
-- **Impressão:** botão *Imprimir* escolhe as partes (resumo, detalhamento, conferência), filtro atual ou relação inteira, paisagem ou retrato. A4 com cabeçalho CRV e páginas numeradas. Para PDF, use *Salvar como PDF*.
+- **Impressão:** botão *Imprimir* escolhe as partes (resumo, detalhamento, conferência), filtro atual ou relação inteira, paisagem ou retrato.
+  O relatório tem layout próprio para A4: o resumo cabe numa folha (indicadores, composição, setores, modelos e o quadro por setor e área em colunas),
+  o detalhamento sai em tabela compacta com o cabeçalho repetido em cada página, e as margens trazem cabeçalho e rodapé com posição da planilha e número da página.
+  Com a relação atual, o relatório completo em paisagem tem 5 páginas (resumo 1, detalhamento 2, conferência 2). Para PDF, use *Salvar como PDF*.
 - **Tema** claro e escuro.
 
 ## Atualizar os dados
